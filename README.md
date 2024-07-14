@@ -1,8 +1,12 @@
-# React + Vite
+# ✈️ ExplorAR - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción 
 
-Currently, two official plugins are available:
+Proyecto final en grupo de Argentina Programa 4.0, decidimos elegir la temática Turismo, y consecuentemente  destinos turísticos de Argentina.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🤝🏻 Integrantes del proyecto:
+
+- Agustín Palma
+- [Lautaro Juarez](https://github.com/lautarx03)
+- Nicolas Bourbotte
+
