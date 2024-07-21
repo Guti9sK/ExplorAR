@@ -8,5 +8,5 @@ Proyecto final en grupo de Argentina Programa 4.0, decidimos elegir la temática
 
 - Agustín Palma
 - [Lautaro Juarez](https://github.com/lautarx03)
-- Nicolas Bourbotte
+- Nicolás Bourbotte
 
